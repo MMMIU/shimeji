@@ -1,0 +1,60 @@
+　英文Behaviors菜单说明：
+　　一级菜单
+　　Chase mouse　　　　　　**追着鼠标跑一段
+　　Sit and face mouse　　　　**坐下并看向鼠标方向
+　　Sit and spin head　　　　**坐下然后动动小脑袋
+　　Fall　　　　　　　　没啥卵用
+　　Dragged　　　　　　　　*保持被鼠标抓住的状态，静止一段时间后悔自然挣脱
+　　Thrown　　　　　　　　没啥卵用
+　　Pull up　　　　　　　　同上
+　　Divided　　　　　　　　一样
+　　Stand up　　　　　　　　坐着的时候站起来
+　　Sit down　　　　　　　　站着的时候坐下去
+　　Sit while dangling legs　　**坐下并悠闲地晃腿
+　　Lie down　　　　　　　　变成伏地魔
+　　Spilit into two　　　　　　**分裂成两只shimeji（这动作我做了39帧能信？）
+　　Hold onto wall　　　　　　定在墙上不许爬
+　　Fall from wall　　　　　　从墙上掉下来
+　　Hold onto ceiling　　　　定在天花版不许动
+　　Fall from ceiling　　　　　　从天花板掉下来
+　　Walk along work area floor 　　开始走路
+　　Run along work area floor 　　开始跑步
+　　Crawl along work area floor 　　**开始学伏地魔爬
+　　Walk left along floor and sit 　　走到左边坐下
+　　Walk right along floor and sit　　走到右边坐下
+　　Grab work area bottom left wall　　去爬桌面左边边缘
+　　Grab work area bottom right wall 　　去爬桌面右边边缘
+　　Walk left and sit　　　　　　跑到左边坐下
+　　Walk right and sit　　　　跑到右边坐下
+　　Walk and grab bottom left wall　　跑去爬桌面左边边缘
+　　Walk and grab bottom right wall　　跑去爬桌面右边边缘
+　　Jump from bottom of IE　　**飞到IE底部
+Pull up shimeji　　　　　　**从地上拉一只shimeji出来~
+　　Climb half way along wall 　　*开始在墙上爬
+　　Climb along wall　　　　*好像和上面没区别
+　　Climb along ceiling　　　　开始在天花板飘
+　　Walk along IE ceiling　　　　在IE上面走
+　　Run along IE ceiling　　　　在IE上面跑
+　　Crawl along IE ceiling　　在IE上面爬
+　　Sit on the left edge of IE　　去IE左边坐下
+　　Sit on the right edge of IE　　去IE右边坐下
+　　Jump from left edge of IE 　　好像没效果
+　　Jump from right edge of IE 　　同上
+　　Walk left along IE and sit　　跑去IE左边坐下
+　　Walk right along IE and sit 　　跑去IE右边坐下
+　　Walk left along IE and jump 　　跑几下后就没了
+　　Walk right along IE and jump　　　　同上
+　　Hold onto IE wall　　　　没效果
+　　Climb IE wall　　　　　　开始在IE侧边爬
+　　Climb IE bottom　　　　　　开始在IE底部飘
+　　Grab IE bottom left wall　　在IE底部飘时飘到左边并爬IE左侧
+　　Grab IE bottom right wall　　在IE底部飘时飘到左边并爬IE右侧
+　　Jump from left wall　　　　*扑向桌面左侧边缘
+　　Jump from right wall　　　　*扑向桌面右侧边缘
+　　Jump on IE left wall　　　　*扑向IE左侧边缘（要在左边缘左边才能抓住边缘）
+　　Jump on IE right wall　　*扑向IE右侧边缘（要在右边缘右边才能抓住边缘）
+　　Throw IE from left　　　　**扑向IE左侧边缘（要在左边缘左边才能抓住边缘）并扯下来，举着IE窗口走路然后把它丢走
+　　Throw IE from right　　　　**扑向IE右侧边缘（要在右边缘右边才能抓住边缘）并扯下来，举着IE窗口走路然后把它丢走
+　　Walk and Throw IE from left　　　　**扑向IE左侧边缘（要在左边缘左边才能抓住边缘）并扯下来，举着IE窗口跑然后把它丢走
+　　Walk and Throw IE from right　　**扑向IE右侧边缘（要在右边缘右边才能抓住边缘）并扯下来，举着IE窗口跑然后把它丢走
+　　有星号的是有趣的动作，有两个的强烈推荐尝试
